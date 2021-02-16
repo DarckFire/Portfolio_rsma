@@ -1,0 +1,44 @@
+    body{color: rgb(255, 255, 255) ;
+    margin:0;
+    padding:0;
+    padding-top: 0;
+    padding-bottom: 0;
+    }
+    .main{
+        background-image:url(https://www.pixelstalk.net/wp-content/uploads/2016/05/Futuristic-Computer-Wallpapers.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center center;
+
+    }
+    .title{
+        border: 10px solid rgb(112, 62, 204) ;
+        background-color: rgb(42, 13, 110);
+    }
+    .profils{
+        font-size: 15px;
+        padding-left:75px;
+        border: 3px solid;
+        font-family: cursive;
+        font-size: 35px;
+    }
+    td{
+        text-align: left;
+        padding: 15px;
+
+    }
+
+    .container{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:pink;
+}
+.h1{
+    font-family: cursive;
+    font-size: 35px;
+}
